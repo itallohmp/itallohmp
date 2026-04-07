@@ -33,22 +33,15 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Autenticação & Segurança
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### DevOps & Infraestrutura
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Redes
-![FTTH](https://img.shields.io/badge/Redes_FTTH-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH_/_Paramiko-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+
 
 </div>
 
@@ -56,32 +49,32 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 
 ## 💼 Projetos em Destaque
 
-### 🏦 API Bancária — FastAPI
+###  API Bancária — FastAPI
 > API REST completa simulando operações bancárias reais
 
-- ✅ Autenticação segura com **JWT**
-- ✅ Endpoints para criação de **usuários, contas e transações**
-- ✅ Arquitetura em camadas: **controllers → services → models**
-- ✅ Banco de dados relacional integrado
+-  Autenticação segura com **JWT**
+-  Endpoints para criação de **usuários, contas e transações**
+-  Arquitetura em camadas: **controllers → services → models**
+-  Banco de dados relacional integrado
 
 ---
 
-### 🌐 Sistema de Logs NAT — Integração com Redes
+###  Sistema de Logs NAT — Integração com Redes
 > Ferramenta técnica para coleta e análise de logs de rede — projeto real desenvolvido com base na experiência em infraestrutura FTTH
 
-- ✅ API que coleta e filtra **logs de tráfego de rede**
-- ✅ Integração remota via **SSH (Paramiko)**
-- ✅ Processamento de arquivos **.bz2 e .log**
-- ✅ Filtros avançados por **IP, porta e intervalo de data**
+-  API que coleta e filtra **logs de tráfego de rede**
+-  Integração remota via **SSH (Paramiko)**
+-  Processamento de arquivos **.bz2 e .log**
+-  Filtros avançados por **IP, porta e intervalo de data**
 
 
 ---
 
-### 🖥️ Portfólio Pessoal — Django
+###  Portfólio Pessoal — Django
 > Site profissional desenvolvido com Django, exibindo projetos e experiências
 
-- ✅ Aplicação web completa com **Django**
-- ✅ Deploy em produção no **PythonAnywhere**
+-  Aplicação web completa com **Django**
+-  Deploy em produção no **PythonAnywhere**
 - 🔗 **[Acesse aqui →](https://itallohmp.pythonanywhere.com/)**
 
 ---
@@ -100,14 +93,14 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 
 Busco oportunidades como **Desenvolvedor Backend Python** em times que valorizem:
 
-- 🔧 Construção de **APIs robustas e escaláveis**
-- 🏗️ Boas práticas de **arquitetura de software**
-- 🔗 Integração entre sistemas e infraestrutura
-- 📈 Evolução técnica contínua e desafios reais
+-  Construção de **APIs robustas e escaláveis**
+-  Boas práticas de **arquitetura de software**
+-  Integração entre sistemas e infraestrutura
+-  Evolução técnica contínua e desafios reais
 
 ---
 
-## 📬 Vamos conversar?
+##  Vamos conversar?
 
 <div align="center">
 
