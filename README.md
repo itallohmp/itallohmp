@@ -21,7 +21,6 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 - **Suporte Técnico N1** em empresa de fibra óptica (FTTH), com atuação em redes, troubleshooting e análise de desempenho — o que me deu uma visão técnica diferenciada sobre infraestrutura e comunicação de dados.
 - **8 anos no Exército Brasileiro** como 3º Sargento — onde desenvolvi **disciplina, liderança e capacidade de resolver problemas sob pressão**, atributos que carrego para cada linha de código que escrevo.
 
-> _"Código bem escrito não é acidente — é resultado de disciplina, prática e comprometimento."_
 
 ---
 
