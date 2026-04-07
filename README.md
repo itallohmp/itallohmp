@@ -12,20 +12,20 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou um desenvolvedor backend com foco em **Python**, construção de **APIs REST** e **integração de sistemas**. Tenho experiência prática com **FastAPI** e **Django**, desenvolvendo projetos reais que envolvem autenticação, banco de dados e arquitetura em camadas.
 
 Minha trajetória é marcada por dois pilares que definem meu perfil profissional:
 
-- 💼 **Suporte Técnico N1** em empresa de fibra óptica (FTTH), com atuação em redes, troubleshooting e análise de desempenho — o que me deu uma visão técnica diferenciada sobre infraestrutura e comunicação de dados.
-- 🎖️ **8 anos no Exército Brasileiro** como 3º Sargento — onde desenvolvi **disciplina, liderança e capacidade de resolver problemas sob pressão**, atributos que carrego para cada linha de código que escrevo.
+- **Suporte Técnico N1** em empresa de fibra óptica (FTTH), com atuação em redes, troubleshooting e análise de desempenho — o que me deu uma visão técnica diferenciada sobre infraestrutura e comunicação de dados.
+- **8 anos no Exército Brasileiro** como 3º Sargento — onde desenvolvi **disciplina, liderança e capacidade de resolver problemas sob pressão**, atributos que carrego para cada linha de código que escrevo.
 
 > _"Código bem escrito não é acidente — é resultado de disciplina, prática e comprometimento."_
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## Stack & Tecnologias
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 
 ---
 
-## 💼 Projetos em Destaque
+## Projetos em Destaque
 
 ###  API Bancária — FastAPI
 > API REST completa simulando operações bancárias reais
@@ -79,7 +79,7 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Status
 
 <div align="center">
 
