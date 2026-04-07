@@ -91,8 +91,7 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itallohmp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itallohmp&layout=compact&theme=tokyonight&hide_border=true)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=itallohmp&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 </div>
 
