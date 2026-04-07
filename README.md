@@ -90,7 +90,7 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?itallohmp=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itallohmp&hide=contribs,prs)
 
 </div>
 
