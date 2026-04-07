@@ -74,7 +74,6 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 - ✅ Processamento de arquivos **.bz2 e .log**
 - ✅ Filtros avançados por **IP, porta e intervalo de data**
 
-> 💡 *Diferencial real: este projeto une desenvolvimento backend com conhecimento técnico de redes — algo pouco comum em desenvolvedores.*
 
 ---
 
@@ -91,7 +90,8 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 
 <div align="center">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=itallohmp&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itallohmp&show_icons=true&theme=dark#gh-dark-mode-only"/>
 
 </div>
 
