@@ -14,7 +14,8 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor backend com foco em **Python**, construção de **APIs REST** e **integração de sistemas**. Tenho experiência prática com **FastAPI** e **Django**, desenvolvendo projetos reais que envolvem autenticação, banco de dados e arquitetura em camadas.
+Formado em Análise e Desenvolvimento de Sistemas, em especialização com foco em Python. Experiência prática em **Python**, FastAPI, HTML, CSS, e SQL, além de vivência em automação 
+e integração de sistemas. Dedicação ao aprendizado contínuo e aplicação de metodologias ágeis.
 
 Minha trajetória é marcada por dois pilares que definem meu perfil profissional:
 
