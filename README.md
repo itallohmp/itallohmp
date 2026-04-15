@@ -4,10 +4,6 @@
 
 ### 🐍 Backend Developer · Python · APIs REST · System Integration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itallohmp)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://itallohmp.pythonanywhere.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itallohmp)
-
 </div>
 
 ---
@@ -73,16 +69,6 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 -  Aplicação web completa com **Django**
 -  Deploy em produção no **PythonAnywhere**
 - 🔗 **[Acesse aqui →](https://itallohmp.pythonanywhere.com/)**
-
----
-
-## GitHub Status
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itallohmp&hide=contribs,prs"/>
-
-</div>
 
 ---
 
