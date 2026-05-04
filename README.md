@@ -22,6 +22,18 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 
 ## Projetos em Destaque
 
+---
+
+###  Interativa SGP Notifier — Automação de notificações
+> Sistema em Python para monitoramento de eventos e envio automatizado de notificações
+
+-  Monitoramento e tratamento de eventos
+-  Automação de processos operacionais
+-  Redução do tempo de resposta em ocorrências
+-  Integração com sistemas internos
+
+- 🔗 **[Acesse aqui →](https://github.com/itallohmp/interativa-sgp-notifier)**
+
 ###  API Bancária — FastAPI
 > API REST completa simulando operações bancárias reais
 
@@ -39,7 +51,7 @@ Minha trajetória é marcada por dois pilares que definem meu perfil profissiona
 -  Integração remota via **SSH (Paramiko)**
 -  Processamento de arquivos **.bz2 e .log**
 -  Filtros avançados por **IP, porta e intervalo de data**
-
+- 🔗 **[Acesse aqui →](https://github.com/itallohmp/log-filter)**
 
 ---
 
